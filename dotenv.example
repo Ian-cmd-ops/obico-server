@@ -17,7 +17,7 @@
 # DEFAULT_FROM_EMAIL=changeme@example.com
 # The "FROM" email address in all emails sent by the system
 
-# SITE_USES_HTTPS=False
+# SITE_USES_HTTPS=True
 # set it to True if https is set up
 
 # SITE_IS_PUBLIC=False
